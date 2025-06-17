@@ -29,56 +29,77 @@
 
 ---
 
-## 🕰️ Awards & Recognitions Timeline  
+<h2>🕰️ Awards & Recognitions Timeline</h2>
 
-### 🟪 **September 2024**
-🏆 **Outstanding Winner Award**  
-**Project:** I+NKR Application – *Team Korat Chic*  
-🗺️ *Class Cafe, Wat Burapha, Nakhon Ratchasima*  
-🎯 *Smart City Competition* – "Head Korat Hed Plian Muang"  
-👥 Hosted by Faculty of Architecture, RMUTI × Class Cafe
+<div style="border-left: 3px solid #5B21B6; padding-left: 20px; margin-top: 20px;">
 
----
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #5B21B6;">📅 September 2024</h3>
+    <p>
+      <strong>🏆 Outstanding Winner Award</strong><br>
+      <em>Project:</em> I+NKR Application – <strong>Team Korat Chic</strong><br>
+      <em>Event:</em> Smart City Development: "Head Korat Hed Plian Muang"<br>
+      <em>Location:</em> Class Cafe, Nakhon Ratchasima
+    </p>
+  </div>
 
-### 🟦 **May 2024**
-🏅 **Commendation Award**  
-**Project:** I+M CHANG Application – *Team NEXZ*  
-🌍 *Global Social Enterprise Competition (YESS)* – International Level  
-📍 *Logistics Lab 01-406, Faculty of Business Administration, RMUTI*
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #4C1D95;">📅 May 2024</h3>
+    <p>
+      <strong>🏅 Commendation Award</strong><br>
+      <em>Project:</em> I+M CHANG Application – <strong>Team NEXZ</strong><br>
+      <em>Event:</em> Global Social Enterprise Competition (International)<br>
+      <em>Location:</em> Logistics Lab 01-406, RMUTI
+    </p>
+  </div>
 
----
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #7C3AED;">📅 March 2024</h3>
+    <p>
+      <strong>🥉 Second Runner-Up</strong><br>
+      <em>Project:</em> I+M CHANG Application – <strong>Team NEXZ</strong><br>
+      <em>Event:</em> Global Social Enterprise Competition (YESS)<br>
+      <em>Location:</em> Faculty of Business Administration, RMUTI
+    </p>
+  </div>
 
-### 🟩 **March 2024**
-🥉 **Second Runner-Up**  
-**Project:** I+M CHANG Application – *Team NEXZ*  
-🌱 *Youth Entrepreneurs for Social Sustainable (YESS)*  
-📍 *Faculty of Business Administration, RMUTI*
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #9333EA;">📅 February 2024</h3>
+    <p>
+      <strong>🥈 First Runner-Up</strong><br>
+      <em>Project:</em> UX/UI Design of INTERKERAMOS Website<br>
+      <em>Event:</em> The 12th Undergraduate Academic Conference (AUCC 2)<br>
+      <em>Location:</em> Mahasarakham University
+    </p>
+  </div>
 
----
+</div>
 
-### 🟨 **February 2024**
-🥈 **First Runner-Up**  
-**Project:** UX/UI Design for INTERKERAMOS THAILAND  
-🎓 *Poster Presentation of Research (Co-op Ed)*  
-📍 *The 12th AUCC at Mahasarakham University*
+<h2 style="margin-top: 60px;">📚 Research & Publications</h2>
 
----
+<div style="border-left: 3px solid #10B981; padding-left: 20px;">
 
-## 🧾 Research & Publications Timeline
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #059669;">📘 2024</h3>
+    <p>
+      <strong>User Experience and User Interface Design of INTERKERAMOS Website</strong><br>
+      <em>Authors:</em> Rakmongkoltrakul, P., Ngamwong, R., Laosinthia, P.<br>
+      <em>Conference:</em> The 12th AUCC<br>
+      <em>Pages:</em> 249–256
+    </p>
+  </div>
 
-### 📘 **2024**
-📝 *User Experience and UI Design of INTERKERAMOS Website*  
-👨‍💼 Rakmongkoltrakul, Ngamwong, Laosinthia  
-📚 Proceedings of The 12th AUCC, pp. 249–256  
-📍 Mahasarakham University, Feb 21–23, 2024
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #065F46;">📗 2023</h3>
+    <p>
+      <strong>Development of Web Application for Dialysis Center Management</strong><br>
+      <em>Authors:</em> IN, S., Rakmongkoltrakul, P., Waentaisong, P., Chanwimeluang, W., Kitwattanathaworn, P.<br>
+      <em>Conference:</em> The 11th AUCCS<br>
+      <em>Pages:</em> 1436–1444
+    </p>
+  </div>
 
----
-
-### 📗 **2023**
-📝 *Web Application for Dialysis Center Management*  
-👨‍💻 IN, Rakmongkoltrakul, Waentaisong, Chanwimeluang, Kitwattanathaworn  
-📚 Proceedings of The 11th AUCCS, pp. 1436–1444  
-📍 Feb 16–18, 2023
+</div>
 
 ---
 
