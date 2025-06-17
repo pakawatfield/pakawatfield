@@ -37,17 +37,17 @@
 ---
 
 ### 📚 Frameworks, Platforms and Libraries  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+<div align="left"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> </div>
 
 ---
 
 ### 💾 Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+<div align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> </div>
 
 ---
 
 ### 🧰 Tools & Other  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=f)
+<div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white"/> </div>
 
 
 ---
