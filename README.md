@@ -29,54 +29,88 @@
 
 ---
 
-## 🏆 Awards & Recognitions  
+## 🏆 Awards & Recognitions
 
-### ✨ February 2024  
-**🥈 First Runner-Up** – Poster Presentation of Research (*Cooperative Education category*)  
-🖥️ **Project**: *User Experience and User Interface Design of the INTERKERAMOS THAILAND website*  
-📍 *The 12th Undergraduate Academic Conference (AUCC 2)*  
-📅 *February 21–23, 2024 | Mahasarakham University*
+<table>
+  <tr>
+    <th>📅 Date</th>
+    <th>🏅 Award</th>
+    <th>📌 Event / Description</th>
+  </tr>
+
+  <tr>
+    <td><strong>Feb 2024</strong></td>
+    <td>🥈 First Runner-Up</td>
+    <td>
+      Poster Presentation of Research (Cooperative Education)<br/>
+      <strong>Project:</strong> UX/UI Design of INTERKERAMOS THAILAND Website<br/>
+      <strong>Event:</strong> The 12th Undergraduate Academic Conference (AUCC 2)<br/>
+      <strong>Location:</strong> Mahasarakham University
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Mar 2024</strong></td>
+    <td>🥉 Second Runner-Up</td>
+    <td>
+      Global Social Enterprise Competition (YESS)<br/>
+      <strong>Project:</strong> I+M CHANG Application by Team NEXZ<br/>
+      <strong>Location:</strong> RMUTI Faculty of Business Administration
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>May 2024</strong></td>
+    <td>🏅 Commendation Award</td>
+    <td>
+      International Level - Social Sustainable (YESS)<br/>
+      <strong>Project:</strong> I+M CHANG Application by Team NEXZ<br/>
+      <strong>Location:</strong> Logistics Lab 01-406, RMUTI
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sep 2024</strong></td>
+    <td>🏆 Outstanding Winner</td>
+    <td>
+      Head Korat Hed Plian Muang – Smart City Project<br/>
+      <strong>Project:</strong> I+NKR Application by Team Korat Chic<br/>
+      <strong>Location:</strong> Class Cafe, Nakhon Ratchasima
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ✨ March 2024  
-**🥉 Second Runner-Up** – Global Social Enterprise Competition  
-🌍 *Theme*: **Youth Entrepreneurs for Social Sustainable (YESS)**  
-📱 *Team NEXZ* presented: **I+M CHANG application**  
-📍 *Faculty of Business Administration, Rajamangala University of Technology Isan*
+## 📚 Research & Publications
 
----
+<table>
+  <tr>
+    <th>📅 Year</th>
+    <th>📘 Title</th>
+    <th>🧠 Description</th>
+  </tr>
 
-### ✨ May 2024  
-**🏅 Commendation Award** – Global Social Enterprise Competition *(International Level)*  
-🌍 *Theme*: **Youth Entrepreneurs for Social Sustainable (YESS)**  
-📱 *Team NEXZ* presented: **I+M CHANG application**  
-📍 *Logistics Lab 01-406, 4th Floor, Faculty of Business Administration Building, RMUTI*
+  <tr>
+    <td><strong>2024</strong></td>
+    <td>UX/UI Design of INTERKERAMOS THAILAND Website</td>
+    <td>
+      Authors: Rakmongkoltrakul, P., Ngamwong, R., Laosinthia, P.<br/>
+      Proceedings of The 12th Asia Undergraduate Conference on Computing, pp. 249–256<br/>
+      <strong>Mahasarakham University</strong>, February 21–23, 2024
+    </td>
+  </tr>
 
----
-
-### ✨ September 2024  
-**🏆 Outstanding Winner Award** – *“Head Korat Hed Plian Muang” Smart City Competition*  
-🏙️ *Organized by*: Faculty of Architecture and Creative Arts, RMUTI × Class Cafe Co., Ltd.  
-📱 *Team Korat Chic* presented: **I+NKR application**  
-📍 *Class Cafe, Wat Burapha branch, Nakhon Ratchasima*
-
----
-
-## 📚 Research & Academic Publications  
-
-### 📄 Rakmongkoltrakul, P., Ngamwong, R., & Laosinthia, P. (2024)  
-📝 *User Experience and User Interface Design of INTERKERAMOS THAILAND Website*  
-📘 *Proceedings of The 12th Asia Undergraduate Conference on Computing*, pp. 249–256  
-📅 *February 21–23, 2024 | Mahasarakham University*
-
----
-
-### 📄 IN, S., Rakmongkoltrakul, P., Waentaisong, P., Chanwimeluang, W., & Kitwattanathaworn, P. (2023)  
-📝 *Development of Web Application for Dialysis Center Management*  
-📘 *Proceedings of The 11th Asia Undergraduate Conference on Computer Science*, pp. 1436–1444  
-📅 *February 16–18, 2023*
-
+  <tr>
+    <td><strong>2023</strong></td>
+    <td>Web Application for Dialysis Center Management</td>
+    <td>
+      Authors: IN, S., Rakmongkoltrakul, P., Waentaisong, P., Chanwimeluang, W., Kitwattanathaworn, P.<br/>
+      Proceedings of The 11th Asia Undergraduate Conference on Computer Science, pp. 1436–1444<br/>
+      <strong>February 16–18, 2023</strong>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
