@@ -29,14 +29,53 @@
 
 ---
 
-## 🏅 Tech Ranking (Skills Rating)
+## 🏆 Awards & Recognitions  
 
-| Skill Category | Tools / Tech | Rank |
-|---|---|---|
-| **Languages** | C, HTML5, Java, PHP, Python, JavaScript, R | ⭐⭐⭐⭐☆ |
-| **Frameworks & Libraries** | Bootstrap, Laravel, Vue.js | ⭐⭐⭐⭐☆ |
-| **Databases** | MySQL, MongoDB, Firebase, PostgreSQL | ⭐⭐⭐⭐☆ |
-| **Tools & Others** | Git, VS Code, GitHub, Figma, Trello, Adobe XD | ⭐⭐⭐⭐⭐ |
+### ✨ February 2024  
+**🥈 First Runner-Up** – Poster Presentation of Research (*Cooperative Education category*)  
+🖥️ **Project**: *User Experience and User Interface Design of the INTERKERAMOS THAILAND website*  
+📍 *The 12th Undergraduate Academic Conference (AUCC 2)*  
+📅 *February 21–23, 2024 | Mahasarakham University*
+
+---
+
+### ✨ March 2024  
+**🥉 Second Runner-Up** – Global Social Enterprise Competition  
+🌍 *Theme*: **Youth Entrepreneurs for Social Sustainable (YESS)**  
+📱 *Team NEXZ* presented: **I+M CHANG application**  
+📍 *Faculty of Business Administration, Rajamangala University of Technology Isan*
+
+---
+
+### ✨ May 2024  
+**🏅 Commendation Award** – Global Social Enterprise Competition *(International Level)*  
+🌍 *Theme*: **Youth Entrepreneurs for Social Sustainable (YESS)**  
+📱 *Team NEXZ* presented: **I+M CHANG application**  
+📍 *Logistics Lab 01-406, 4th Floor, Faculty of Business Administration Building, RMUTI*
+
+---
+
+### ✨ September 2024  
+**🏆 Outstanding Winner Award** – *“Head Korat Hed Plian Muang” Smart City Competition*  
+🏙️ *Organized by*: Faculty of Architecture and Creative Arts, RMUTI × Class Cafe Co., Ltd.  
+📱 *Team Korat Chic* presented: **I+NKR application**  
+📍 *Class Cafe, Wat Burapha branch, Nakhon Ratchasima*
+
+---
+
+## 📚 Research & Academic Publications  
+
+### 📄 Rakmongkoltrakul, P., Ngamwong, R., & Laosinthia, P. (2024)  
+📝 *User Experience and User Interface Design of INTERKERAMOS THAILAND Website*  
+📘 *Proceedings of The 12th Asia Undergraduate Conference on Computing*, pp. 249–256  
+📅 *February 21–23, 2024 | Mahasarakham University*
+
+---
+
+### 📄 IN, S., Rakmongkoltrakul, P., Waentaisong, P., Chanwimeluang, W., & Kitwattanathaworn, P. (2023)  
+📝 *Development of Web Application for Dialysis Center Management*  
+📘 *Proceedings of The 11th Asia Undergraduate Conference on Computer Science*, pp. 1436–1444  
+📅 *February 16–18, 2023*
 
 ---
 
