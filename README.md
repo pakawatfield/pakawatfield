@@ -8,8 +8,9 @@
 ---
 
 ## 🧠 About Me  
-🎓 I'm about to graduate with a **Bachelor of Engineering (B.Eng.) in Computer Engineering**.  
-💼 Currently working as a **General Administration Officer / Full Stack Developer** at the **Institute of Engineering, Suranaree University of Technology**.  
+🎓 I'm about to graduate with a **Bachelor of Business Administration Program in Information System and Digital Business Innovation**.  
+💼 Currently working as a **Teaching Assistant / Department of Information Systems** at the **Faculty of Business Administration, RMUTI**.  
+- Provided academic support to 200+ student in Using ready-made programs on mobile device, Database management system, User Experience design, Digital business innovation, System Analysis and Design strengthening teamwork and critical thinking abilities. 
 🎯 Planning to pursue an **M.Eng. in Telecommunication and Computer Engineering**.  
 🚀 Passionate about:  
 - System Analysis and Design  
