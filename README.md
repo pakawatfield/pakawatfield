@@ -7,17 +7,25 @@
 
 ---
 
-## 🧠 About Me  
-🎓 I'm about to graduate with a **Bachelor of Business Administration Program in Information System and Digital Business Innovation**.  
-💼 Currently working as a **Teaching Assistant / Department of Information Systems** at the **Faculty of Business Administration, RMUTI**.  
-- Provided academic support to 200+ student in Using ready-made programs on mobile device, Database management system, User Experience design, Digital business innovation, System Analysis and Design strengthening teamwork and critical thinking abilities.
-🎯 Planning to pursue an **M.Eng. in Telecommunication and Computer Engineering**.  
-🚀 Passionate about:  
-- System Analysis and Design  
-- Software Engineering  
-- Software Testing  
-- Full Stack Development  
-- Web Application Development  
+## 💼 About Me  
+🎓 Graduating in **BBA: Information System & Digital Business Innovation**  
+🧑‍🏫 Teaching Assistant at the **Department of Information Systems, Faculty of Business Administration, RMUTI**  
+📘 Supported academic activities for 200+ students in the following courses:  
+- 📱 **Using Ready-Made Programs on Mobile Devices**  
+- 🗄️ **Database Management Systems**  
+- 🎨 **User Experience Design**  
+- 💡 **Digital Business Innovation**  
+- 🧮 **System Analysis and Design**  
+🤝 Strengthened teamwork, communication, and problem-solving skills through project-based learning.  
+
+🎯 Future Goal: Pursue an **M.Eng. in Telecommunication and Computer Engineering**  
+
+💻 Passionate about:  
+- 🔍 System Analysis  
+- ⚙️ Software Engineering  
+- 🧪 Software Testing  
+- 🧑‍💻 Full Stack Development  
+- 🌐 Web Application Development
 
 ---
 
