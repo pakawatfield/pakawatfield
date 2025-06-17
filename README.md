@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0B9DDC&center=true&vCenter=true&width=800&lines=Fiw+Pakawat+-+Information+System+at+RMUTI;IDI+%231" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Fiw+Pakawat+-+Information+System+at+RMUTI;IDI+%231" alt="Typing SVG" />
 </h1>
+
 
 
 ---
