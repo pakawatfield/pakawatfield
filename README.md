@@ -24,46 +24,23 @@
 ## 🛠️ Tech Stack
 
 ### 📋 Languages  
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 
 ---
 
 ### 📚 Frameworks, Platforms and Libraries  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)  
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 
 ---
 
 ### 💾 Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ---
 
 ### 🧰 Tools & Other  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
-![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)  
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=flat-square&logo=adobexd)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=f)
 
----
-
-## 🚀 Currently Using  
-<!-- เพิ่มเครื่องมือหรือเทคโนโลยีที่ใช้งานอยู่ตอนนี้ เช่น Tailwind, Docker, Jenkins -->
-
-## 📘 Currently Learning  
-<!-- เพิ่มสิ่งที่กำลังศึกษา เช่น Next.js, CI/CD, Cloud, DevOps หรืออื่น ๆ -->
 
 ---
 
