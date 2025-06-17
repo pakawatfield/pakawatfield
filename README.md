@@ -10,7 +10,7 @@
 ## 🧠 About Me  
 🎓 I'm about to graduate with a **Bachelor of Business Administration Program in Information System and Digital Business Innovation**.  
 💼 Currently working as a **Teaching Assistant / Department of Information Systems** at the **Faculty of Business Administration, RMUTI**.  
-- Provided academic support to 200+ student in Using ready-made programs on mobile device, Database management system, User Experience design, Digital business innovation, System Analysis and Design strengthening teamwork and critical thinking abilities. 
+- Provided academic support to 200+ student in Using ready-made programs on mobile device, Database management system, User Experience design, Digital business innovation, System Analysis and Design strengthening teamwork and critical thinking abilities.
 🎯 Planning to pursue an **M.Eng. in Telecommunication and Computer Engineering**.  
 🚀 Passionate about:  
 - System Analysis and Design  
@@ -24,24 +24,38 @@
 ## 🛠️ Tech Stack
 
 ### 📋 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-<!-- เพิ่มภาษาอื่น ๆ ที่ใช้ เช่น Java, PHP, C/C++ -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+
+---
 
 ### 📚 Frameworks, Platforms and Libraries  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-<!-- เพิ่ม Bootstrap, Laravel, Express, Vue, Next.js ฯลฯ -->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)  
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+
+---
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-<!-- เพิ่ม Firebase, PostgreSQL, MSSQL ฯลฯ -->
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+---
 
 ### 🧰 Tools & Other  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  
-<!-- เพิ่ม Postman, Docker, GitHub, Figma, Trello ฯลฯ -->
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)  
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-black?style=flat-square&logo=adobexd)
 
 ---
 
