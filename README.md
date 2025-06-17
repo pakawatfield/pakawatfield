@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0B9DDC&center=true&vCenter=true&width=800&lines=Computer+Engineering+at+Suranaree+University+of+Technology;CPE+%2326+%7C+SUT+%2329" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0B9DDC&center=true&vCenter=true&width=800&lines=Fiw+Pakawat+-+Computer+Engineering+at+Suranaree+University+of+Technology;CPE+%2326+%7C+SUT+%2329" alt="Typing SVG" />
 </h1>
 
 ---
