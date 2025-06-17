@@ -29,88 +29,57 @@
 
 ---
 
-## 🏆 Awards & Recognitions
+## 🕰️ Awards & Recognitions Timeline  
 
-<table>
-  <tr>
-    <th>📅 Date</th>
-    <th>🏅 Award</th>
-    <th>📌 Event / Description</th>
-  </tr>
-
-  <tr>
-    <td><strong>Feb 2024</strong></td>
-    <td>🥈 First Runner-Up</td>
-    <td>
-      Poster Presentation of Research (Cooperative Education)<br/>
-      <strong>Project:</strong> UX/UI Design of INTERKERAMOS THAILAND Website<br/>
-      <strong>Event:</strong> The 12th Undergraduate Academic Conference (AUCC 2)<br/>
-      <strong>Location:</strong> Mahasarakham University
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Mar 2024</strong></td>
-    <td>🥉 Second Runner-Up</td>
-    <td>
-      Global Social Enterprise Competition (YESS)<br/>
-      <strong>Project:</strong> I+M CHANG Application by Team NEXZ<br/>
-      <strong>Location:</strong> RMUTI Faculty of Business Administration
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>May 2024</strong></td>
-    <td>🏅 Commendation Award</td>
-    <td>
-      International Level - Social Sustainable (YESS)<br/>
-      <strong>Project:</strong> I+M CHANG Application by Team NEXZ<br/>
-      <strong>Location:</strong> Logistics Lab 01-406, RMUTI
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Sep 2024</strong></td>
-    <td>🏆 Outstanding Winner</td>
-    <td>
-      Head Korat Hed Plian Muang – Smart City Project<br/>
-      <strong>Project:</strong> I+NKR Application by Team Korat Chic<br/>
-      <strong>Location:</strong> Class Cafe, Nakhon Ratchasima
-    </td>
-  </tr>
-</table>
+### 🟪 **September 2024**
+🏆 **Outstanding Winner Award**  
+**Project:** I+NKR Application – *Team Korat Chic*  
+🗺️ *Class Cafe, Wat Burapha, Nakhon Ratchasima*  
+🎯 *Smart City Competition* – "Head Korat Hed Plian Muang"  
+👥 Hosted by Faculty of Architecture, RMUTI × Class Cafe
 
 ---
 
-## 📚 Research & Publications
+### 🟦 **May 2024**
+🏅 **Commendation Award**  
+**Project:** I+M CHANG Application – *Team NEXZ*  
+🌍 *Global Social Enterprise Competition (YESS)* – International Level  
+📍 *Logistics Lab 01-406, Faculty of Business Administration, RMUTI*
 
-<table>
-  <tr>
-    <th>📅 Year</th>
-    <th>📘 Title</th>
-    <th>🧠 Description</th>
-  </tr>
+---
 
-  <tr>
-    <td><strong>2024</strong></td>
-    <td>UX/UI Design of INTERKERAMOS THAILAND Website</td>
-    <td>
-      Authors: Rakmongkoltrakul, P., Ngamwong, R., Laosinthia, P.<br/>
-      Proceedings of The 12th Asia Undergraduate Conference on Computing, pp. 249–256<br/>
-      <strong>Mahasarakham University</strong>, February 21–23, 2024
-    </td>
-  </tr>
+### 🟩 **March 2024**
+🥉 **Second Runner-Up**  
+**Project:** I+M CHANG Application – *Team NEXZ*  
+🌱 *Youth Entrepreneurs for Social Sustainable (YESS)*  
+📍 *Faculty of Business Administration, RMUTI*
 
-  <tr>
-    <td><strong>2023</strong></td>
-    <td>Web Application for Dialysis Center Management</td>
-    <td>
-      Authors: IN, S., Rakmongkoltrakul, P., Waentaisong, P., Chanwimeluang, W., Kitwattanathaworn, P.<br/>
-      Proceedings of The 11th Asia Undergraduate Conference on Computer Science, pp. 1436–1444<br/>
-      <strong>February 16–18, 2023</strong>
-    </td>
-  </tr>
-</table>
+---
+
+### 🟨 **February 2024**
+🥈 **First Runner-Up**  
+**Project:** UX/UI Design for INTERKERAMOS THAILAND  
+🎓 *Poster Presentation of Research (Co-op Ed)*  
+📍 *The 12th AUCC at Mahasarakham University*
+
+---
+
+## 🧾 Research & Publications Timeline
+
+### 📘 **2024**
+📝 *User Experience and UI Design of INTERKERAMOS Website*  
+👨‍💼 Rakmongkoltrakul, Ngamwong, Laosinthia  
+📚 Proceedings of The 12th AUCC, pp. 249–256  
+📍 Mahasarakham University, Feb 21–23, 2024
+
+---
+
+### 📗 **2023**
+📝 *Web Application for Dialysis Center Management*  
+👨‍💻 IN, Rakmongkoltrakul, Waentaisong, Chanwimeluang, Kitwattanathaworn  
+📚 Proceedings of The 11th AUCCS, pp. 1436–1444  
+📍 Feb 16–18, 2023
+
 ---
 
 ## 🛠️ Tech Stack
