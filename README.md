@@ -38,7 +38,7 @@
     <p>
       <strong>🏆 Outstanding Winner Award</strong><br>
       <em>Project:</em> I+NKR Application – <strong>Team Korat Chic</strong><br>
-      <em>Event:</em> Smart City Development: "Head Korat Hed Plian Muang"<br>
+      <em>Event:</em> Smart City Development: "Head Korat"<br>
       <em>Location:</em> Class Cafe, Nakhon Ratchasima
     </p>
   </div>
