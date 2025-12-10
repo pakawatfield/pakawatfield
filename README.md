@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&pause=1000&color=B78D4F&center=true&vCenter=true&width=850&lines=Fiw+Pakawat+-+Information+System+at+RMUTI;IDI+%231" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&pause=1000&color=B78D4F&center=true&vCenter=true&width=850&lines=Fiw+Pakawat Tasilp+-+Information+System+at+RMUTI;IDI+%231" alt="Typing SVG" />
 </h1>
 
 ---
