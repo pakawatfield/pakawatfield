@@ -1,91 +1,91 @@
 <div align="center">
 
-# 👨‍🏫 Fiw Pakawat (Anfield)
-### Assistant Lecturer | Information System & Computer Engineering Aspirant
+# 📐 PAKAWAT MONGKOLDEE (ANFIELD)
+### `SYSTEM ARCHITECT | ASSISTANT LECTURER | FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=24&pause=1000&color=B78D4F&center=true&vCenter=true&width=800&lines=Teaching+Assistant+at+RMUTI;Full+Stack+Developer+%26+Systems+Analyst;M.Eng.+Telecommunication+%26+Computer+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=1000&color=B78D4F&center=true&vCenter=true&width=800&lines=Crafting+Digital+Structures;Analyzing+Complex+Systems;Building+Modern+Business+Solutions" alt="Typing SVG" />
 
 ---
 
-## 🚀 Academic Focus & Courses
+## 🏛️ ACADEMIC BLUEPRINT
+*Developing the foundation for 200+ students at RMUTI*
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/System_Analysis-20232A?style=for-the-badge&logo=diagrams.net&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OOP_Analysis-20232A?style=for-the-badge&logo=target&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Database_Systems-20232A?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <br>
-  <a href="#"><img src="https://img.shields.io/badge/UX%2FUI_Design-20232A?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Mobile_App_Dev-20232A?style=for-the-badge&logo=expo&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Visualization-20232A?style=for-the-badge&logo=google-analytics&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/SYSTEMS_ANALYSIS-E5E5E5?style=flat&logo=diagrams.net&logoColor=000" />
+  <img src="https://img.shields.io/badge/DATABASE_DESIGN-E5E5E5?style=flat&logo=mysql&logoColor=000" />
+  <img src="https://img.shields.io/badge/UX_STRATEGY-E5E5E5?style=flat&logo=figma&logoColor=000" />
+  <img src="https://img.shields.io/badge/MOBILE_ARCH-E5E5E5?style=flat&logo=expo&logoColor=000" />
+  <img src="https://img.shields.io/badge/OBJECT_ORIENTED-E5E5E5?style=flat&logo=codewars&logoColor=000" />
+  <img src="https://img.shields.io/badge/DATA_VISUALIZATION-E5E5E5?style=flat&logo=powerbi&logoColor=000" />
 </p>
 
 ---
 
-## 📊 Engineering & Activity Stats
+## 📊 PERFORMANCE METRICS
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&title_color=B78D4F&text_color=555&icon_color=B78D4F&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=transparent&title_color=B78D4F&text_color=555&hide_border=true" />
 </p>
 
 </div>
 
-## 💼 Professional Profile
-- 🏛️ **Affiliation**: Department of Information Systems, RMUTI.
-- 👨‍💻 **Technical Lead**: Specialized in System Analysis and Full-stack Engineering.
-- 🎓 **Education**: B.B.A in Digital Business Innovation (First Class Honors preferred mindset).
-- 🎯 **Research Interest**: AI in Business, IoT Systems, and Data Engineering.
+---
+
+## 🛠️ THE WORKBENCH
+
+### 🏗️ Structural Engineering (Backend & Logic)
+- **Languages:** `PHP`, `JavaScript`, `Python`, `SQL`, `C++`
+- **Architectures:** `Laravel`, `Node.js`, `RESTful APIs`
+- **Systems:** `Database Management (MySQL, PostgreSQL, MongoDB)`
+
+### 🎨 Finishing & Interface (Frontend & Design)
+- **Frameworks:** `React Native`, `Vue.js`, `Tailwind CSS`, `Bootstrap 5`
+- **Design:** `Figma (Expert)`, `Adobe XD`, `User Experience Strategy`
+
+### 📉 Analysis & Synthesis (Data)
+- **BI & Analytics:** `Power BI`, `Looker Studio`, `Google Colab`
+- **Modeling:** `DFD`, `ER-Diagram`, `Class Diagram`, `System Flowchart`
 
 ---
 
-## 🛠️ Engineering Tech Stack
+## 📂 PINNED BLUEPRINTS
+> *Selected works from the repository*
 
-### 🏗️ Programming & Frameworks
-- **Languages:** `PHP`, `JavaScript (ES6+)`, `Python`, `SQL`, `C++`
-- **Frontend:** `React Native`, `Vue.js`, `Tailwind CSS`, `Bootstrap 5`
-- **Backend:** `Laravel (PHP)`, `Node.js`
-- **Tools:** `Expo Go`, `Git`, `Docker` (Future interest)
-
-### 📊 Data Science & Analytics
-- **BI Tools:** <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black"/> `Looker Studio`
-- **Environments:** `Google Colab`, `Jupyter Notebook`
-
-### 🎨 Design & Prototyping
-- **UX/UI:** `Figma`, `Adobe XD`
-- **Diagramming:** `Draw.io`, `Enterprise Architect` (DFD, ERD, Class Diagram)
+| Project | Domain | Status |
+| :--- | :--- | :--- |
+| **System-Analysis-2-2568** | Academic Infrastructure | `Active` |
+| **AI-in-Business-01** | Intelligent Systems | `Research` |
+| **DB-CONN-HOTEL-M** | Resource Management | `Production` |
 
 ---
 
-## 📌 Featured Projects (Pinned)
-- 📂 **System-Analysis-and-Design**: Academic resources and case studies.
-- 📂 **Artificial-Intelligence-in-Business**: Research and implementation of AI.
-- 📂 **DBMS**: Database architectural design and SQL Optimization.
+## 🏅 EXHIBITIONS & RECOGNITIONS
 
----
-
-## 🏅 Honors & Publications
 <details>
-<summary><b>View Academic Achievements</b></summary>
+<summary><b>View Timeline (2023 - 2024)</b></summary>
 
-### 🏆 Awards
-- **Outstanding Winner** | I+NKR App (Smart City Development) - 2024
-- **Commendation Award** | I+M CHANG App (Global Social Enterprise) - 2024
-- **1st Runner-Up** | INTERKERAMOS UX/UI (AUCC) - 2024
+### 🏆 AWARDS
+- **Outstanding Winner** | I+NKR App (Smart City Development) 
+- **Commendation Award** | I+M CHANG App (Global Social Enterprise)
+- **1st Runner-Up** | INTERKERAMOS UX/UI (The 12th AUCC)
 
-### 📄 Research
-- **2024:** User Experience Design of INTERKERAMOS Website (AUCC)
-- **2023:** Web Application for Dialysis Center Management (AUCCS)
+### 📄 PUBLICATIONS
+- **[2024]** UX/UI Design of INTERKERAMOS Website (AUCC)
+- **[2023]** Web Application for Dialysis Center Management (AUCCS)
 </details>
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 🖋️ CONTACT
+*Let's build something meaningful.*
+
+[**LINKEDIN**](https://linkedin.com/in/yourprofile) &nbsp;&bull;&nbsp; [**GMAIL**](mailto:your@email.com) &nbsp;&bull;&nbsp; [**GITHUB**](https://github.com/yourusername)
 
 <br>
 
-_"Engineering is not only about building things, it's about solving problems for humanity."_
+*"Form follows function, but a great system serves humanity."*
 
 </div>
