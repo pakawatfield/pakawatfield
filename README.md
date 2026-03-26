@@ -11,21 +11,25 @@
 *Developing the foundation for 200+ students at RMUTI*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS_ANALYSIS-E5E5E5?style=flat&logo=diagrams.net&logoColor=000" />
-  <img src="https://img.shields.io/badge/DATABASE_DESIGN-E5E5E5?style=flat&logo=mysql&logoColor=000" />
-  <img src="https://img.shields.io/badge/UX_STRATEGY-E5E5E5?style=flat&logo=figma&logoColor=000" />
-  <img src="https://img.shields.io/badge/MOBILE_ARCH-E5E5E5?style=flat&logo=expo&logoColor=000" />
-  <img src="https://img.shields.io/badge/OBJECT_ORIENTED-E5E5E5?style=flat&logo=codewars&logoColor=000" />
-  <img src="https://img.shields.io/badge/DATA_VISUALIZATION-E5E5E5?style=flat&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/SYSTEMS_ANALYSIS-00599C?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABASE_DESIGN-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX_STRATEGY-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MOBILE_ARCH-000000?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/OBJECT_ORIENTED-563D7C?style=flat-square&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA_VISUALIZATION-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## 📊 PERFORMANCE & ACTIVITY
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&title_color=B78D4F&text_color=555&icon_color=B78D4F&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=transparent&title_color=B78D4F&text_color=555&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&title_color=B78D4F&text_color=555&icon_color=B78D4F&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=transparent&title_color=B78D4F&text_color=555&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=B78D4F&line=B78D4F&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 </div>
@@ -35,16 +39,17 @@
 ## 🛠️ THE WORKBENCH
 
 ### 🏗️ Structural Engineering (Backend & Logic)
-- **Languages:** `PHP`, `JavaScript`, `Python`, `SQL`, `C++`
+- **Languages:** <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 - **Architectures:** `Laravel`, `Node.js`, `RESTful APIs`
-- **Systems:** `Database Management (MySQL, PostgreSQL, MongoDB)`
+- **Systems:** `MySQL`, `PostgreSQL`, `MongoDB`
 
 ### 🎨 Finishing & Interface (Frontend & Design)
-- **Frameworks:** `React Native`, `Vue.js`, `Tailwind CSS`, `Bootstrap 5`
+- **Frameworks:** <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 - **Design:** `Figma (Expert)`, `Adobe XD`, `User Experience Strategy`
 
 ### 📉 Analysis & Synthesis (Data)
-- **BI & Analytics:** `Power BI`, `Looker Studio`, `Google Colab`
+- **BI Tools:** <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white"/>
+- **Environments:** `Google Colab`, `Jupyter Notebook`
 - **Modeling:** `DFD`, `ER-Diagram`, `Class Diagram`, `System Flowchart`
 
 ---
@@ -54,7 +59,7 @@
 
 | Project | Domain | Status |
 | :--- | :--- | :--- |
-| **System-Analysis-2-2568** | Academic Infrastructure | `Active` |
+| **2-2568-System-Analysis** | Academic Infrastructure | `Active` |
 | **AI-in-Business-01** | Intelligent Systems | `Research` |
 | **DB-CONN-HOTEL-M** | Resource Management | `Production` |
 
@@ -82,7 +87,9 @@
 ## 🖋️ CONTACT
 *Let's build something meaningful.*
 
-[**LINKEDIN**](https://linkedin.com/in/yourprofile) &nbsp;&bull;&nbsp; [**GMAIL**](mailto:your@email.com) &nbsp;&bull;&nbsp; [**GITHUB**](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 <br>
 
